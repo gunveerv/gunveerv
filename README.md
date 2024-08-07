@@ -1,6 +1,6 @@
-## Hi there 👋
-<h1 align="center">I'm Gunveer</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="left">Hi there 👋</h1>
+<h1 align="left">I'm Gunveer</h1>
+<h3 align="left">Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
